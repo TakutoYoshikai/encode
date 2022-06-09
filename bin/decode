@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log(decodeURI(process.argv[2]))
+console.log(decodeURIComponent(process.argv[2]))
