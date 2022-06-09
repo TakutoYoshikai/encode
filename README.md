@@ -14,12 +14,12 @@ npm install -g TakutoYoshikai/encode
 
 **encode string**
 ```bash
-encode "http://localhost:8000/hello?q=20) = 1 OR 1=1 (1%2B1"
+encode "http://localhost:8000/hello?q=アイウエオ"
 ```
 
 **decode string**
 ```bash
-decode "http://localhost:8000/hello?q=20)%20=%201%20OR%201=1%20(1%252B1"
+decode "http://localhost:8000/hello?q=%E3%82%A2%E3%82%A4%E3%82%A6%E3%82%A8%E3%82%AA"
 ```
 
 ### Contributing
