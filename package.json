@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Takuto Yoshikai <takuto.yoshikai@gmail.com> (https://yoshikai.net/en)",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
     "encode": "./bin/encode",
     "decode": "./bin/decode"
