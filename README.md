@@ -1,5 +1,5 @@
 # encode
-URL encoder
+Simple URL Encoder & Decoder
 
 ### Requirements
 * Node.js
